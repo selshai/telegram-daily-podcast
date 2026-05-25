@@ -1,0 +1,27 @@
+# Credentials & secrets
+.env
+
+# Telegram session (contains auth tokens)
+*.session
+*.session-journal
+
+# Generated output files
+unread_*.txt
+summary_*.txt
+*.mp3
+source_*.txt
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Misc
+unread_last_2_days.txt

@@ -1,0 +1,7 @@
+pip==26.0.1
+pyaes==1.6.1
+pyasn1==0.6.3
+rsa==4.9.1
+telethon==1.42.0
+edge-tts
+openai
