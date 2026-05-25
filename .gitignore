@@ -1,6 +1,9 @@
 # Credentials & secrets
 .env
 
+# Claude Code project instructions (local only)
+CLAUDE.md
+
 # Telegram session (contains auth tokens)
 *.session
 *.session-journal
